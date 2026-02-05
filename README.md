@@ -6,9 +6,6 @@
 
 Currently developing open-source tools aimed at simplifying API integrations and improving developer productivity.
 
-## 🌱 I'm currently learning
-
-Actively learning Rust and WebAssembly to build high-performance web applications and next-gen backend services.
 
 ## 👀 I'm interested in
 
