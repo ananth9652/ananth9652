@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ananth Krishnan R
+# Hi 👋, I'm Ananth 
 
 **Full-stack developer focused on building scalable and user-friendly web applications. Strong interest in modern JavaScript stacks, backend systems, and AI-powered tools. Enjoys turning complex ideas into clean, practical products.**
 
