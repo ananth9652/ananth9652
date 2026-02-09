@@ -39,7 +39,6 @@ Open-source contribution, UI/UX design, cloud architecture, developer tooling, a
 
 📧 **Email:** [ananthkrishnan2004@gmail.com](mailto:ananthkrishnan2004@gmail.com)
 
-📱 **Phone:** +919207209652
 
 </div>
 
